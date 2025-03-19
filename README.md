@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prashanthg05
+- 👋 Hi, I’m @Prashanth G
 - 👀 I’m interested in Electronics, IOT, & Embedded Systems
 - 🌱 I’m currently learning & Exploring on IOT, Raspberry Pi & Advanced Embedded Systems
 - 💞️ I’m looking to collaborate on Smart Electronics Projects & IOT-based Innovations
