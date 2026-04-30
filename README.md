@@ -9,8 +9,7 @@
     I design and build real-world hardware systems, seamlessly blending microcontrollers with custom web interfaces. From coding embedded systems to building 5-inch FPV drones and crafting full-stack platforms, I'm always eager to build, learn, and optimize.
   </p>
 
-  <!-- Replace YOUR_WEBSITE_LINK_HERE with your actual portfolio URL -->
-  <a href="YOUR_WEBSITE_LINK_HERE"><img src="https://img.shields.io/badge/Portfolio_Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://jumperjunction.pages.dev"><img src="https://img.shields.io/badge/Portfolio_Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="https://linkedin.com/in/prashanthg05"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:prashanthg0505@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://instagram.com/prashanthg_05"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
@@ -46,36 +45,42 @@
 
 ### 🚀 Featured Engineering & Development
 
-> **[JumperJunction](YOUR_WEBSITE_LINK_HERE)** 
-> A custom hardware showcase landing page and resource hub for electronic projects, hosted efficiently on Cloudflare Pages.
+> **JumperJunction** <br/>
+> A custom hardware showcase landing page and resource hub for electronic projects.<br/>
+> <a href="https://jumperjunction.pages.dev"><img src="https://img.shields.io/badge/🌐_Visit_Site-JumperJunction-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Visit JumperJunction" /></a>
 
-> **CREATORS Hub (LMS)** 
-> A customized Learning Management System application utilizing Google Drive and Google Sheets as a lightweight, scalable backend architecture.
-
-> **Lock-On Radar System** 
-> Built and programmed with an Arduino Nano, servos, and an ultrasonic sensor, featuring a custom military-style web interface for scanning.
-
-> **BELL_BOT - Smart IoT Bell Automation** 
-> An ESP32-based automation system featuring a Web UI, display output, secure access, and flexible manual/auto modes.
-
-> **Autonomous Waste & Billing Robot** 
+> **Autonomous Waste & Billing Robot** <br/>
 > A fully autonomous robotic system for waste collection that integrates automatic billing and real-time monitoring.
 
-> **Industrial Motor Control System** 
+> **BELL_BOT - Smart IoT Bell Automation** <br/>
+> An ESP32-based automation system featuring a Web UI, display output, secure access, and flexible manual/auto modes.
+
+> **Industrial Motor Control System** <br/>
 > An IoT-enabled architecture for real-time industrial motor monitoring, precision control, and automated fault indication.
+
+> **Lock-On Radar System** <br/>
+> Built and programmed with an Arduino Nano, servos, and an ultrasonic sensor, featuring a custom military-style web interface for scanning.
+
+> **ADHYAYA (LMS)** <br/>
+> A customized Learning Management System application utilizing Google Drive and Google Sheets as a lightweight, scalable backend architecture.
 
 <br/>
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashanthg05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=prashanthg05&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prashanthg05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=prashanthg05&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthg05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=prashanthg05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthg05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prashanthg05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
