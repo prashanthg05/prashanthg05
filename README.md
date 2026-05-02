@@ -13,7 +13,7 @@
     I design and build real-world hardware systems, seamlessly blending microcontrollers with custom web interfaces. From coding embedded systems to building 5-inch FPV drones and crafting full-stack platforms, I'm always eager to build, learn, and optimize.
   </p>
 
-  <a href="https://jumperjunction.pages.dev"><img src="https://img.shields.io/badge/Portfolio_Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=00BFFF" alt="Website"/></a>
+  <a href="https://jumperjunction.codes"><img src="https://img.shields.io/badge/Portfolio_Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=00BFFF" alt="Website"/></a>
   <a href="https://linkedin.com/in/prashanthg05"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:prashanthg0505@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://instagram.com/prashanthg_05"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
@@ -53,7 +53,7 @@
 
 > 🌐 **JumperJunction** <br/>
 > A custom hardware showcase landing page and resource hub for electronic projects.<br/>
-> <a href="https://jumperjunction.pages.dev"><img src="https://img.shields.io/badge/🚀_Visit_Site-JumperJunction-039BE5?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Visit JumperJunction" /></a>
+> <a href="https://jumperjunction.codes"><img src="https://img.shields.io/badge/🚀_Visit_Site-JumperJunction-039BE5?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Visit JumperJunction" /></a>
 
 > 🤖 **Autonomous Waste & Billing Robot** <br/>
 > A fully autonomous robotic system for waste collection that integrates automatic billing and real-time monitoring.
