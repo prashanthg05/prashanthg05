@@ -97,11 +97,7 @@
     <h2 style="color: #00BFFF; font-size: 28px; margin-bottom: 30px; text-transform: uppercase; letter-spacing: 2px;">
       🚀 Featured Engineering Projects
     </h2>
-
-    <!-- Project Cards Container -->
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px auto; max-width: 1200px;">
-
-      <!-- Project 1: JumperJunction -->
       <div style="background: linear-gradient(135deg, rgba(0, 191, 255, 0.15), rgba(0, 191, 255, 0.05)); padding: 25px; border-radius: 10px; border: 1px solid rgba(0, 191, 255, 0.3); backdrop-filter: blur(10px); transition: all 0.3s ease; animation: slideUp 0.6s ease-out 1.3s both;" onmouseover="this.style.boxShadow='0 10px 30px rgba(0, 191, 255, 0.3)'; this.style.transform='translateY(-5px)'" onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
         <h3 style="color: #00BFFF; margin-bottom: 10px;">🌐 JumperJunction</h3>
         <p style="color: #b0b0b0; margin-bottom: 15px; font-size: 0.95em;">A custom hardware showcase landing page and resource hub for electronic projects.</p>
@@ -109,42 +105,31 @@
           <img src="https://img.shields.io/badge/🚀_Visit_Site-JumperJunction-039BE5?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Visit JumperJunction" />
         </a>
       </div>
-
-      <!-- Project 2: Autonomous Waste & Billing Robot -->
       <div style="background: linear-gradient(135deg, rgba(0, 191, 255, 0.15), rgba(0, 191, 255, 0.05)); padding: 25px; border-radius: 10px; border: 1px solid rgba(0, 191, 255, 0.3); backdrop-filter: blur(10px); transition: all 0.3s ease; animation: slideUp 0.6s ease-out 1.35s both;" onmouseover="this.style.boxShadow='0 10px 30px rgba(0, 191, 255, 0.3)'; this.style.transform='translateY(-5px)'" onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
         <h3 style="color: #00BFFF; margin-bottom: 10px;">🤖 Autonomous Waste & Billing Robot</h3>
         <p style="color: #b0b0b0; margin-bottom: 15px; font-size: 0.95em;">Fully autonomous robotic system for waste collection with automatic billing and real-time monitoring.</p>
         <span style="color: #00BFFF; font-size: 0.85em;">IoT • Robotics • Automation</span>
       </div>
-
-      <!-- Project 3: BELL_BOT -->
       <div style="background: linear-gradient(135deg, rgba(0, 191, 255, 0.15), rgba(0, 191, 255, 0.05)); padding: 25px; border-radius: 10px; border: 1px solid rgba(0, 191, 255, 0.3); backdrop-filter: blur(10px); transition: all 0.3s ease; animation: slideUp 0.6s ease-out 1.4s both;" onmouseover="this.style.boxShadow='0 10px 30px rgba(0, 191, 255, 0.3)'; this.style.transform='translateY(-5px)'" onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
         <h3 style="color: #00BFFF; margin-bottom: 10px;">🔔 BELL_BOT - Smart IoT Bell</h3>
         <p style="color: #b0b0b0; margin-bottom: 15px; font-size: 0.95em;">ESP32-based automation featuring Web UI, display output, secure access, and manual/auto modes.</p>
         <span style="color: #00BFFF; font-size: 0.85em;">ESP32 • Web Interface • Automation</span>
       </div>
-
-      <!-- Project 4: Industrial Motor Control -->
       <div style="background: linear-gradient(135deg, rgba(0, 191, 255, 0.15), rgba(0, 191, 255, 0.05)); padding: 25px; border-radius: 10px; border: 1px solid rgba(0, 191, 255, 0.3); backdrop-filter: blur(10px); transition: all 0.3s ease; animation: slideUp 0.6s ease-out 1.45s both;" onmouseover="this.style.boxShadow='0 10px 30px rgba(0, 191, 255, 0.3)'; this.style.transform='translateY(-5px)'" onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
         <h3 style="color: #00BFFF; margin-bottom: 10px;">⚙️ Industrial Motor Control System</h3>
         <p style="color: #b0b0b0; margin-bottom: 15px; font-size: 0.95em;">IoT-enabled architecture for real-time motor monitoring, precision control, and automated fault detection.</p>
         <span style="color: #00BFFF; font-size: 0.85em;">IoT • Control Systems • Monitoring</span>
       </div>
-
-      <!-- Project 5: Lock-On Radar -->
       <div style="background: linear-gradient(135deg, rgba(0, 191, 255, 0.15), rgba(0, 191, 255, 0.05)); padding: 25px; border-radius: 10px; border: 1px solid rgba(0, 191, 255, 0.3); backdrop-filter: blur(10px); transition: all 0.3s ease; animation: slideUp 0.6s ease-out 1.5s both;" onmouseover="this.style.boxShadow='0 10px 30px rgba(0, 191, 255, 0.3)'; this.style.transform='translateY(-5px)'" onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
         <h3 style="color: #00BFFF; margin-bottom: 10px;">📡 Lock-On Radar System</h3>
         <p style="color: #b0b0b0; margin-bottom: 15px; font-size: 0.95em;">Arduino Nano-based system with servos and ultrasonic sensor. Custom military-style web interface for scanning.</p>
         <span style="color: #00BFFF; font-size: 0.85em;">Arduino • Sensors • Web UI</span>
       </div>
-
-      <!-- Project 6: ADHYAYA LMS -->
       <div style="background: linear-gradient(135deg, rgba(0, 191, 255, 0.15), rgba(0, 191, 255, 0.05)); padding: 25px; border-radius: 10px; border: 1px solid rgba(0, 191, 255, 0.3); backdrop-filter: blur(10px); transition: all 0.3s ease; animation: slideUp 0.6s ease-out 1.55s both;" onmouseover="this.style.boxShadow='0 10px 30px rgba(0, 191, 255, 0.3)'; this.style.transform='translateY(-5px)'" onmouseout="this.style.boxShadow='none'; this.style.transform='translateY(0)'">
         <h3 style="color: #00BFFF; margin-bottom: 10px;">🎓 ADHYAYA - Learning Management System</h3>
         <p style="color: #b0b0b0; margin-bottom: 15px; font-size: 0.95em;">Custom LMS utilizing Google Drive and Sheets as lightweight, scalable backend architecture.</p>
         <span style="color: #00BFFF; font-size: 0.85em;">Full-Stack • Google Cloud • Education</span>
       </div>
-
     </div>
 
   </div>
@@ -165,8 +150,6 @@
     <h2 style="color: #00BFFF; font-size: 28px; margin-bottom: 30px; text-transform: uppercase; letter-spacing: 2px;">
       📊 GitHub Analytics & Achievements
     </h2>
-
-    <!-- Stats Grid -->
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px auto; max-width: 1200px;">
       <div style="animation: slideUp 0.6s ease-out 1.75s both;">
         <img src="https://github-readme-stats.vercel.app/api?username=prashanthg05&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" style="border-radius: 10px; max-width: 100%; height: auto;"/>
@@ -175,11 +158,9 @@
         <img src="https://streak-stats.demolab.com/?user=prashanthg05&theme=nightowl&hide_border=true" alt="GitHub Streak" style="border-radius: 10px; max-width: 100%; height: auto;"/>
       </div>
     </div>
-
     <div style="animation: slideUp 0.6s ease-out 1.85s both; margin: 30px 0;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthg05&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="border-radius: 10px; max-width: 100%; height: auto;"/>
     </div>
-
     <div style="animation: slideUp 0.6s ease-out 1.9s both; margin: 30px 0;">
       <img src="https://github-profile-trophy.vercel.app/?username=prashanthg05&theme=nightowl&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" style="max-width: 100%; height: auto;"/>
     </div>
