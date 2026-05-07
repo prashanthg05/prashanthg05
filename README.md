@@ -85,7 +85,7 @@
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Analytics
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Analytics & Contributions
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prashanthg05&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="49%" />
@@ -102,4 +102,10 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prashanthg05&theme=nightowl&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashanthg05&theme=nightowl&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </div>
