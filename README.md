@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=150&section=header&text=Wiring%20Hardware,%20Debugging%20Software,%20Hoping%20Nothing%20Explodes&fontSize=26&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
 
   <br/><br/>
-  
+   
   <img src="https://komarev.com/ghpvc/?username=prashanthg05&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
   <br/><br/>
