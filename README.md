@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=150&section=header&text=Welcome%20to%20My%20World&fontSize=30&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=150&section=header&text=It%20Works%20On%20My%20Breadboard...%20Usually&fontSize=35&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
 
   <br/><br/>
   
@@ -88,14 +88,14 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Analytics & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashanthg05&theme=nightowl&hide_border=true&show_icons=true&cache_seconds=86400" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prashanthg05&theme=nightowl&hide_border=true&show_icons=true" alt="GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=prashanthg05&theme=nightowl&hide_border=true" alt="GitHub Streak" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashanthg05&theme=nightowl&hide_border=true&layout=compact&cache_seconds=86400" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthg05&theme=nightowl&hide_border=true&layout=compact" alt="Top Languages" width="50%" />
 </div>
 
 <br/>
