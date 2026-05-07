@@ -88,14 +88,14 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Analytics & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashanthg05&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prashanthg05&theme=nightowl&hide_border=true&show_icons=true" alt="GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=prashanthg05&theme=nightowl&hide_border=true" alt="GitHub Streak" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthg05&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthg05&theme=nightowl&hide_border=true&layout=compact" alt="Top Languages" width="50%" />
 </div>
 
 <br/>
