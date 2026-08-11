@@ -62,7 +62,7 @@
 
 > 🌐 **JumperJunction** <br/>
 > A custom hardware showcase landing page and resource hub for electronic projects.<br/>
-> <a href="https://github.com/prashanthg05"><img src="https://img.shields.io/badge/🚀_Visit_Site-JumperJunction-039BE5?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Visit JumperJunction" /></a>
+> <a href="https://jumperjunction.codes"><img src="https://img.shields.io/badge/🚀_Visit_Site-JumperJunction-039BE5?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Visit JumperJunction" /></a>
 
 > 🤖 **Autonomous Waste & Billing Robot** <br/>
 > A fully autonomous robotic system for waste collection that integrates automatic billing and real-time monitoring.
